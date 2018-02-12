@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="15A284" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CameraSettings" representedClassName="CameraSettings" syncable="YES">
+        <attribute name="mcolor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mexposure" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mfront" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="muserid" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="mwhitebalancing" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mzoom" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CameraSettings" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
